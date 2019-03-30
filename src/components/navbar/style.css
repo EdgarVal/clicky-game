@@ -1,0 +1,21 @@
+.navbar {
+    background-color: purple;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: center;
+    /* display: inline; */
+}
+
+.navbar li {
+    display: inline-block;
+    float: none;
+}
+
+li {
+    color: white;
+    padding: 15px 0;
+}
+
+
+body {
+    font-size: 24px;
+}

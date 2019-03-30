@@ -1,0 +1,11 @@
+#jumboPic {
+    background-image: url("https://stmed.net/sites/default/files/styles/1920x1080/public/bob%27s-burgers-wallpapers-31529-6628927.jpg?itok=YDPw9bCG");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}

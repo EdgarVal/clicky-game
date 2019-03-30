@@ -1,0 +1,8 @@
+.card-columns {
+    columns: 4;
+    margin: 0% 10% 0% 10%;
+}
+
+#burger {
+    background-image: linear-gradient(to bottom right, orange, yellow);
+}

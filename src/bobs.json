@@ -1,0 +1,62 @@
+[
+    {
+        "key": 1,
+        "id": 1,
+        "image": "./images/bob.jpg"
+    },
+    {
+        "key": 2,
+        "id": 2,
+        "image": "./images/louise.jpg"
+    },
+    {
+        "key": 3,
+        "id": 3,
+        "image": "./images/gene.jpg"
+    },
+    {
+        "key": 4,
+        "id": 4,
+        "image": "./images/linda.jpg"
+    },
+    {
+        "key": 5,
+        "id": 5,
+        "image": "./images/tina.jpg"
+    },
+    {
+        "key": 6,
+        "id": 6,
+        "image": "./images/mr-fish.jpg"
+    },
+    {
+        "key": 7,
+        "id": 7,
+        "image": "./images/teddy.jpg"
+    },
+    {
+        "key": 8,
+        "id": 8,
+        "image": "./images/gayle.jpg"
+    },
+    {
+        "key": 9,
+        "id": 9,
+        "image": "./images/zeke.jpg"
+    },
+    {
+        "key": 10,
+        "id": 10,
+        "image": "./images/mr-frond.jpg"
+    },
+    {
+        "key": 11,
+        "id": 11,
+        "image": "./images/jocelyn.jpg"
+    },
+    {
+        "key": 12,
+        "id": 12,
+        "image": "./images/jimmy-jr.jpg"
+    }  
+]
