@@ -2,7 +2,6 @@ import React from'react';
 import CastCard from "./components/castCard";
 import Navbar from "./components/navbar";
 import Jumbotron from "./components/jumbotron";
-// import Footer from "./components/footer";
 import cast from "./bobs.json";
 import './App.css';
 //-----------------------------
@@ -42,7 +41,6 @@ class App extends React.Component {
         clickedImg: this.state.clickedImg.concat(currentPic),
         score: this.state.score + 1
       },
-      
         () => {
           if (this.state.score === 12) {
             alert("Winner Winner!");
@@ -76,7 +74,6 @@ class App extends React.Component {
                 />  
               ))}
             </div> 
-        {/* <Footer /> */}
       </div>  
     );
   }
